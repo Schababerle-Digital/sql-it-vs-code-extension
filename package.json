@@ -2,10 +2,12 @@
   "name": "sql-it",
   "displayName": "SQL it!",
   "description": "Turn a list of strings into a inline, comma-seperated, sql ready string",
-  "version": "0.0.1",
+  "version": "1.0.11",
+  "publisher": "schababerledigital",
   "engines": {
     "vscode": "^1.96.0"
   },
+  "icon": "assets/logo.png",
   "categories": [
     "Other"
   ],

@@ -19,7 +19,7 @@ This VS Code extension provides a command to format selected text into a string 
 
 1. Select the text you want to format in your active editor.
 2. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac) to open the Command Palette.
-3. Search for `String Formatter: Format Strings` and select it.
+3. Search for `SQL it!` and select it.
 
 The selected text will be formatted as follows:
 
